@@ -14,7 +14,7 @@
   dependencies:
     regenerator-runtime "^0.13.11"
 
-"@grafbase/sdk@^0.1.0":
+"@grafbase/sdk@~0.1.0":
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/@grafbase/sdk/-/sdk-0.1.0.tgz#ebd8cd4a88b0a690b72c7c6a0a986192a5c3ab97"
   integrity sha512-ERXhlUHoeW0cZZe2gPnSKffihVkUwGApqkYS2jeieYhzNWhUH+tnds/7wFqKMKer54kOkllb7bZuDkw35rbG2w==

@@ -53,11 +53,11 @@ const Footer = () => {
                 </div>
             </div>
 
-            <div className="flexBetween pt-4 xs:pt-6 footer_copyright">
+            <div className="flexBetween pt-6 footer_copyright">
                 <p>
-                    @ 2023 CraftInspire | All rights reserved.
+                    @ 2023 Inspirogram | All rights reserved.
                 </p>
-                <p className="text-gray xs:pt-2">
+                <p className="text-gray">
                     <span className="text-black font-semibold">62</span> projects submitted
                 </p>
 
